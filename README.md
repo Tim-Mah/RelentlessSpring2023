@@ -1,6 +1,8 @@
 # Relentless
 
-Web version of our game (Tim Mah, Kate Edgar, Adam Sun)
+Web version of our game created by Tim Mah, Kate Edgar, and Adam Sun
+- https://github.com/kate-edgar
+- https://github.com/alf0am
 https://timothymah.itch.io/relentless-spring-2023-v-10?secret=KuH7IxWEBKNtfC5WkSFi6qSd150
 
 This was made for our 2nd year Game Development class, made in about 4 months with Unity.
