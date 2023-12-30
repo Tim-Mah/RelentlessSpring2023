@@ -6,8 +6,14 @@ public class FallingPlatform : MonoBehaviour
 {
     public float fallDelay = 1f;
     public float destroyDelay = 2f;
+    private Vector2 initialPos;
 
     public Rigidbody2D rb2;
+
+    private void Start()
+    {
+        initialPos = transform.position;
+    }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -21,6 +27,15 @@ public class FallingPlatform : MonoBehaviour
     {
         yield return new WaitForSeconds(fallDelay);
         rb2.bodyType = RigidbodyType2D.Dynamic;
-        Destroy(gameObject, destroyDelay);
+        
+    }
+
+    public void respawn()
+    {
+        StopCoroutine(Fall());
+        rb2.velocity = new Vector2(0, 0);
+        rb2.bodyType = RigidbodyType2D.Kinematic;
+        transform.position = initialPos;
     }
 }
+

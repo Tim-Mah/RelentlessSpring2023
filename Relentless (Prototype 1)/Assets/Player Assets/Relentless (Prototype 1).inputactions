@@ -42,7 +42,7 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "Crouch",
+                    "name": "Slide",
                     "type": "Button",
                     "id": "cb8cec7b-c57f-4482-b119-af51dfe1d61c",
                     "expectedControlType": "Button",
@@ -219,6 +219,17 @@
                 },
                 {
                     "name": "",
+                    "id": "9d45014a-4ff7-40ef-a725-5ce4ad2ef561",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "386bd85b-0d4b-476b-8e32-f9fb4fd6285a",
                     "path": "<Keyboard>/s",
                     "interactions": "",
@@ -241,45 +252,23 @@
                 },
                 {
                     "name": "",
-                    "id": "64435e48-96e9-4b8c-bb07-ffd74769b12d",
+                    "id": "cb3b280d-0c3d-4f8e-9d1b-132d91c894c0",
                     "path": "<Keyboard>/shift",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "Crouch",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "7caa344a-939d-4972-b7c5-63e4e04b13f9",
-                    "path": "<Keyboard>/downArrow",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Crouch",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "cdb01818-d58d-4254-9d93-80ec31cb036e",
-                    "path": "<Keyboard>/s",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
-                    "action": "Crouch",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                },
-                {
-                    "name": "",
-                    "id": "cb3b280d-0c3d-4f8e-9d1b-132d91c894c0",
-                    "path": "<Keyboard>/space",
-                    "interactions": "",
-                    "processors": "",
-                    "groups": "",
                     "action": "Dash",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "53c67491-d604-496a-84ff-fb57fb7c229f",
+                    "path": "<Keyboard>/ctrl",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Slide",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

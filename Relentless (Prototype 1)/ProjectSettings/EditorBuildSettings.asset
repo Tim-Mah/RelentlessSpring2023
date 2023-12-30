@@ -5,13 +5,40 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/Lobby (Start).unity
+  - enabled: 0
+    path: Assets/Scenes/Test Scenes/Kate's Test Level.unity
     guid: 8f501de563a3f4a99b0a2bab0122869b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Envir Art/Digital Grassland/DemoScene.unity
     guid: d30fbee988f498842a6e22beea9f1786
-  - enabled: 1
-    path: Assets/Scenes/Forest Level 1.unity
+  - enabled: 0
+    path: Assets/Scenes/Test Scenes/Tim's Test Level.unity
     guid: 2b93d9389b9cb45fdad7746031882576
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: cc4d73d36ae0e92448280242c580dc42
+  - enabled: 1
+    path: Assets/Scenes/Story Scene 1.unity
+    guid: a3ce96a01646943f68c7940eea7a25d4
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 9ba028eec86824dffb383eb941b81274
+  - enabled: 0
+    path: Assets/Scenes/Story Scene 2.unity
+    guid: 54c51a8981a5cdc40b1eebb02b2e4afa
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: 147e090bc16564527aa741138752faee
+  - enabled: 1
+    path: Assets/Scenes/Lvl 3/Level 3.unity
+    guid: 1e13c0dba1b284cf2a4e83383cfe643b
+  - enabled: 0
+    path: Assets/Scenes/Tutorial.unity
+    guid: bb32355e54c374f3290f69e8b66c3cea
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 0ef3fcdcbf1ba4ef5ae7ca0445adec44
+  - enabled: 0
+    path: Assets/Scenes/Training Area.unity
+    guid: 1e0762f842aa147d6824932a6ca6757c
   m_configObjects: {}

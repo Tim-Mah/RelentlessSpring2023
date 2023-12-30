@@ -5,20 +5,31 @@ TagManager:
   serializedVersion: 2
   tags:
   - OneWayPlatform
-  - Spike
   - Ladder
   - Moving Ridable
   - Ice
+  - notJumpable
+  - oneWayRidable
+  - Damage
+  - Water
+  - Fire
+  - Heal
+  - MovingPlatformPosts
+  - HealthDrain
+  - Dialogue
+  - NoEffectCollision
+  - Panel
+  - FadeImage
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
   - Ground
   - Wall
-  - 
+  - Foreground
   - 
   - 
   - 
@@ -54,28 +65,4 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 3609967365
-    locked: 0
-  - name: Test - Background 2
-    uniqueID: 241275219
-    locked: 0
-  - name: Test - Back Fog 2
-    uniqueID: 2581083727
-    locked: 0
-  - name: Test - Background 1
-    uniqueID: 2418699423
-    locked: 0
-  - name: Test - Back Fog 1
-    uniqueID: 487164547
-    locked: 0
-  - name: Test - Middleground
-    uniqueID: 612985131
-    locked: 0
-  - name: Test - Foreground 1
-    uniqueID: 4265515119
-    locked: 0
-  - name: Test - Front Fog 1
-    uniqueID: 636380533
-    locked: 0
-  - name: Test - Foreground 2
-    uniqueID: 2290784971
     locked: 0
