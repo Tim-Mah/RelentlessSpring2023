@@ -36,5 +36,7 @@ _level 4_, after the player falls into the water, they start to freeze. Stand be
 
 *Lvl 4 is unfinished and is lacking assets.*
 
+
 **Reflection**
+
 If we had the chance to do this project again, we would make the scope of the project much smaller. Designing and play-testing four different levels was very time consuming, which didn’t give us enough time to perfect the other elements of the game (health, tutorial, story, animation). Premade 2d assets would have made this easier. The 2.5D style of the game meant layering different assets free-hand, which was exponentially more time consuming than using a flat art style. 
