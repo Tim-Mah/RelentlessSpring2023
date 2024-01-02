@@ -21,14 +21,19 @@ Wall Jump by pressing a jump key while wall sliding
 
 
 **Level Design Goals**
+
 _Level 1_ is focused on the core mechanics (run, jump, wall jump, dash)
 - Fast paced, dynamic platforming
+
 _Level 2_, dash is disabled. The player can only use dash through red areas (which they can only stay in a few seconds)
 - Methodical, timing
+
 _level 3_, wind pushes the player backwards
 - Slower, strategic platforming
+
 _level 4_, after the player falls into the water, they start to freeze. Stand beside the campfires to warm up.
 - Rushed, against the clock
+
 *Lvl 4 is unfinished and is lacking assets.*
 
 **Reflection**
