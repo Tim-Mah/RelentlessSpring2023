@@ -5,7 +5,7 @@ Web version of our game created by Tim Mah, Kate Edgar, and Adam Sun
 - https://github.com/alf0am
 
   
-**Game link** https://timothymah.itch.io/relentless-spring-2023-v-10?secret=KuH7IxWEBKNtfC5WkSFi6qSd150
+**Game link** https://timothymah.itch.io/relentless-spring-2023-v-10
 
 This was made for our 2nd year Game Development class, made in about 4 months with Unity.
 
