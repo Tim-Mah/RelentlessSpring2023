@@ -20,7 +20,7 @@ Wall Slide by holding direction keys (arrows or A, D) in direction of wall
 Wall Jump by pressing a jump key while wall sliding
 
 # **My Contributions**
-I coded the movement system, implimenting *coyote time, double jump, wall jumps + grab, dash*, as well as all the platforms and materials (floating, moving, ice, jump platforms, 2 way and 1 way platforms). I also arranged the art for each level (some hand drawn, some premade assets) and designed + animated the main character. I designed and tested the 3rd level.
+I coded the movement system, implimenting *coyote time, double jump, wall jumps + grab, dash*, as well as all the platforms and materials (floating, moving, ice, jump platforms, 2 way and 1 way platforms). I also coded the camera movement script for levels 1, 3, 4. I also arranged the art for each level (some hand drawn, some premade assets) and designed + animated the main character. I designed and tested the 3rd level.
 
 # **Level Design Goals**
 
